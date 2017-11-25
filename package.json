@@ -1,0 +1,21 @@
+{
+  "name": "mockerysample",
+  "version": "1.0.0",
+  "description": "Mockery sample code",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc -p . && mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/chai": "^4.0.5",
+    "@types/mocha": "^2.2.44",
+    "@types/mockery": "^1.4.29",
+    "@types/node": "^8.0.53",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "mockery": "^2.1.0"
+  }
+}
